@@ -1,0 +1,12 @@
+rank,name,score,skills,education,reasoning
+1,JOHN ANDERSON,53.19,"Python, JavaScript, TypeScript, Java, Go","Bachelor of Science in Computer Science State University, 2015",Candidate: JOHN ANDERSON
+2,ROBERT WILSON,45.19,"Python, TypeScript, Java, Go, PostgreSQL","Master of Science in Software Engineering Carnegie Mellon University, 2014 Bachelor of Science in Co",Candidate: ROBERT WILSON
+3,MICHAEL CHEN,43.46,"Python, Java, Go, C++, Django","Master's in Computer Science University of Washington, 2018 BS Computer Science, 2016",Candidate: MICHAEL CHEN
+4,ALEX THOMPSON,42.03,"Python, JavaScript, TypeScript, Java, Go",No education details found,Candidate: ALEX THOMPSON
+5,DAVID KUMAR,41.86,"Python, Ruby, PostgreSQL, MySQL, SQL","Bachelor of Science in Information Systems State University, 2017",Candidate: DAVID KUMAR
+6,SARAH MARTINEZ,41.63,"Python, JavaScript, TypeScript, Java, Go","Bachelor of Science in Information Technology Tech University, 2017",Candidate: SARAH MARTINEZ
+7,LISA ANDERSON,35.04,"Python, JavaScript, TypeScript, Java, Go","Bachelor of Science in Computer Science Tech University, 2021 PERSONAL PROJECTS:",Candidate: LISA ANDERSON
+8,JESSICA PATEL,30.35,"Python, Java, Go, PostgreSQL, MongoDB","Master of Science in Data Science University of Colorado, 2018 Bachelor of Science in Statistics, 20",Candidate: JESSICA PATEL
+9,EMMA WILSON,25.71,"JavaScript, Java, React, GraphQL, REST","Bachelor of Science in Software Engineering Tech University, 2019",Candidate: EMMA WILSON
+10,RACHEL GREEN,24.77,"Python, JavaScript, Java, Go, SQL","Bachelor of Science in Computer Science Tech University, 2019",Candidate: RACHEL GREEN
+11,MARK JOHNSON,19.97,"Go, SQL, GitHub, API, Git","Bachelor of Science in Business Administration University of Southern California, 2018",Candidate: MARK JOHNSON
